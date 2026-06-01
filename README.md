@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Amisha 👋
 
-<!--
-**code-amisha/code-amisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student passionate about technology and problem-solving.
 
-Here are some ideas to get you started:
+💻 Currently exploring Web Development, and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects and improving my skills through hands-on development.
+
+### Current Project
+
+* Midnight Focus — A productivity-focused web application designed to help users stay focused and manage their time effectively.
+
+### Technologies
+
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+### Goals
+
+* Build real-world projects
+* Improve frontend development skills
+* Learn modern web technologies
+* Grow as a software developer
+
+📫 Always learning, building, and experimenting with new ideas.
+
