@@ -1,8 +1,8 @@
 # Hi, I'm Amisha 👋
 
-🎓 MCA Student passionate about technology and problem-solving.
+ MCA Student passionate about technology and problem-solving.
 
-💻 Currently exploring Web Development, and Software Engineering.
+ Currently exploring Web Development, and Software Engineering.
 
 🚀 Building projects and improving my skills through hands-on development.
 
@@ -24,5 +24,5 @@
 * Learn modern web technologies
 * Grow as a software developer
 
-📫 Always learning, building, and experimenting with new ideas.
+~ Always learning, building, and experimenting with new ideas.
 
