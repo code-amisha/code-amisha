@@ -1,4 +1,4 @@
-# Hi, I'm Amisha 👋
+# Hi, I'm Amisha !
 
  MCA Student passionate about technology and problem-solving.
 
