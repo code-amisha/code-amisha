@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Amisha&fontSize=50&fontColor=ffffff)
-# Hi, I'm Amisha !
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Hi, I'm Amisha !&fontSize=40&fontColor=ffffff)
 
  MCA Student passionate about technology and problem-solving.
 
