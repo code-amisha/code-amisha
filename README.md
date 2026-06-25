@@ -10,8 +10,6 @@
 
 * Midnight Focus — A productivity-focused web application designed to help users stay focused and manage their time effectively.
 
-### Technologies
-
 ## 🛠️ Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
