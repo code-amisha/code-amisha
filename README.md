@@ -1,5 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=150&section=header&text=MCA%20Student%20%7C%20Aspiring%20&fontSize=25&fontColor=ffffff)
- Hi, I'm Amisha !
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=150&section=header&text=Code.%20Create.%20Learn.&fontSize=30&fontColor=ffffff)
+ # Hi, I'm Amisha !
  MCA Student passionate about technology and problem-solving.
 
  Currently exploring Web Development, and Software Engineering.
