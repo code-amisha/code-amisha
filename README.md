@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-amisha&show_icons=true)
+![GitHub Stats](![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=code-amisha&show_icons=true&theme=tokyonight))
 
 ## 🔥 GitHub Streak
 
