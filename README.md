@@ -37,5 +37,5 @@
 * Learn modern web technologies
 * Grow as a software developer
 
-~ Always learning, building, and experimenting with new ideas.
+~ Always learning, building, and experimenting with new ideas!
 
